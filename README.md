@@ -25,9 +25,4 @@ Analysed 100,000 financial transaction records across 6 years
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn:www.linkedin.com/in/maazraei01
-
----
-
 *Open to data analyst opportunities — feel free to reach out!*
