@@ -23,14 +23,6 @@ real-world data projects.
 Analysed 100,000 financial transaction records across 6 years 
 (2018–2023) to uncover trends, segment customers and detect anomalies.
 
-**Key findings:**
-- Stable transaction volume from 2019–2022 across 3 equal 
-  transaction types (~33,300 each)
-- Top 10 customers showed diversified activity with no single 
-  dominant revenue source
-- Flagged 10,066 high-value transactions (10.1%) evenly 
-  distributed across all types
-
 ---
 
 ## 📫 Connect with Me
