@@ -1,8 +1,8 @@
 # Hi, I'm MAA 👋
 
-🎯 Aspiring Data Analyst | Excel • Power Query • SQL
+🎯 Financial Data Analyst | Excel • Power Query • SQL • Phyton
 
-Data Analyst with hands-on experience turning raw data into 
+Financial Data Analyst with hands-on experience turning raw data into 
 meaningful insights. Currently building a portfolio of 
 real-world data projects.
 
