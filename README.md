@@ -1,6 +1,6 @@
 # Hi, I'm MAA 👋
 
-**Financial & Accounting Operations Analyst | Aspiring Data Engineer**
+**Financial & Accounting Operations Analyst**
 
 Passionate about building data solutions through SQL, Python, and modern data technologies.
 
