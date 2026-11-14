@@ -1,28 +1,33 @@
 # Hi, I'm MAA 👋
 
-🎯 Financial Data Analyst | Excel • Power Query • SQL • Phyton
+**Financial & Accounting Operations Analyst | Aspiring Data Engineer**
 
-Financial Data Analyst with hands-on experience turning raw data into 
-meaningful insights. Currently building a portfolio of 
-real-world data projects.
+Passionate about building data solutions through SQL, Python, and modern data technologies.
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Data Processing:** Excel, Power Query
-- **Analysis:** PivotTables, DAX, Data Cleaning
-- **Currently Learning:** SQL, Python
+
+- **Excel:** Advanced, Power Query, PivotTables
+- **SQL:** MySQL, Joins, CTEs, Subqueries
+- **BI:** Power BI, DAX
+- **Programming:** Python (Learning)
+- **ERP:** SAP S/4HANA
 
 ---
 
 ## 📊 Projects
 
 ### Financial Transactions Analysis
-> Excel | Power Query | PivotTables
+**Excel | Power Query | PivotTables**
 
-Analysed 100,000 financial transaction records across 6 years 
-(2018–2023) to uncover trends, segment customers and detect anomalies.
+Analysed 100,000 financial transaction records (2018–2023) to identify trends, customer segments, and anomalies.
 
 ---
 
-*Open to data analyst opportunities — feel free to reach out!*
+## 🚀 Currently Learning
+SQL Optimization • Python • ETL/ELT • Data Pipelines • Cloud Technologies
+
+---
+
+*Exploring Analytics Engineering & Financial data Analytics.*
